@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_loginFragment_to_homeFragment" type="id" />
+    <item name="recyclerView" type="id">recyvlerView</item>
+    <item name="btnLogout" type="id">btnLogout</item>
+    <item name="action_homeFragment_to_loginFragment" type="id" />
+</resources>
